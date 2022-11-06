@@ -17,7 +17,7 @@ api_url = https://api.wakatime.com/api/v1
 hide_file_names = false
 hide_project_names = false
 hide_branch_names =
-hide_project_folder = false
+hide_project_folder = true
 exclude =
     ^COMMIT_EDITMSG$
     ^TAG_EDITMSG$
